@@ -7,9 +7,9 @@ function TopContainer() {
   //const [count, setCount] = useState(0);
 
   return (
-    <div class="top-container">
+    <div className="top-container">
       <LeftMenu />
-      Middle part
+      -
       <RightMenu />
     </div>
   );

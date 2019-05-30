@@ -7,7 +7,7 @@ function BottomContainer() {
   const [count, setCount] = useState(0);
 
   return (
-    <div class="bottom-container">
+    <div className="bottom-container">
       <LeftMenu />
       Center Area
       <RightMenu />

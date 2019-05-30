@@ -4,7 +4,7 @@ function LeftMenu() {
   // Declare a new state variable, which we'll call "count"
   const [count, setCount] = useState(0);
 
-  return <div class="top-left-menu">Left side</div>;
+  return <div className="top-left-menu">Left</div>;
 }
 
 export default LeftMenu;

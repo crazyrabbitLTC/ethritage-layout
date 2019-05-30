@@ -6,8 +6,7 @@ function AdminContainer() {
 
   return (
     <div>
-      <p>You clicked {count} times</p>
-      <button onClick={() => setCount(count + 1)}>TOP COUNTER</button>
+THIS IS ADMIN CONTAINER
     </div>
   );
 }
